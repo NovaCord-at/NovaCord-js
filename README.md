@@ -131,3 +131,7 @@ Bitte halte dich an klare Commit-Messages und einen respektvollen Umgangston. ðŸ
 ## ðŸ“„ Lizenz
 
 Dieses Projekt steht unter der [MIT-Lizenz](./LICENSE).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=atpascal07/NovaCord&type=date&legend=top-left)](https://www.star-history.com/#atpascal07/NovaCord&type=date&legend=top-left)
